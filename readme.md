@@ -12,7 +12,7 @@ Kreider, Amanda R., and Rachel M. Werner. 2023.
 
 1. Download project files to your local machine by clicking on **Code**&rarr;Download Zip. Make note of the path where you saved the files.
 
-2. Download the raw ACS data from the [IPUMS ACS website](https://usa.ipums.org/usa/), and save it as ~/data/acs/usa_00015.dat. 
+2. Download the raw ACS data from the [IPUMS ACS website](https://usa.ipums.org/usa-action/variables/group), and save it as ~/data/acs/usa_00015.dat. 
     - Choose the samples listed in the [codebook](https://github.com/amandakreider/trends_hcw/blob/master/data/acs/usa_00015.cbk#L1), lines 1-65.
     - Choose the variables listed in the [codebook](https://github.com/amandakreider/trends_hcw/blob/master/data/acs/usa_00015.cbk#L69), lines 69-105.
 
