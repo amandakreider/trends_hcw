@@ -12,9 +12,11 @@ Kreider, Amanda R., and Rachel M. Werner. 2023.
 
 1. Download project files to your local machine (make note of path).
 
-2. Update the path at the top of run_all.do (global PATH "~/trends_hcw") to correspond with the location of the project files on your local machine.
+2. Unzip the file ~/data/acs/usa_00015.dat.gz
 
-3. Run run_all.do in Stata to reproduce all derived datasets and graphs for the manuscript. 
+3. Update the path at the top of run_all.do (global PATH "~/trends_hcw") to correspond with the location of the project files on your local machine.
+
+4. Run run_all.do in Stata to reproduce all derived datasets and graphs for the manuscript. 
 
   - 01_usa_00015.do cleans the raw IPUMS American Community Survey (ACS) data.
   - 02_build_kff_data.do uses data from Kaiser Family Foundation (KFF) and data on state Medicaid HCBS programs' start and end dates collected by the study team to construct a dataset with annual counts of HCBS participants.
