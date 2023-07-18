@@ -12,7 +12,7 @@ Kreider, Amanda R., and Rachel M. Werner. 2023.
 
 1. Download project files to your local machine (make note of path).
 
-2. Unzip the file ~/data/acs/usa_00015.dat.gz
+2. Unzip the file ~/data/acs/usa_00015.dat.gz **Note: this file is currently unavailable.**
 
 3. Update the path at the top of run_all.do (global PATH "~/trends_hcw") to correspond with the location of the project files on your local machine.
 
