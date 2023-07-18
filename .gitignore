@@ -4,4 +4,5 @@ data/built/*.dta
 out/*.xlsx
 out/*.png
 out/*.pdf
+*.dat.gz
 
