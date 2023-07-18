@@ -1,4 +1,4 @@
-# Trends-Home-Care-Workforce
+# Trends in the Home Care Workforce
 
 The code in this repository reproduces the analytic datasets and figures for the following manuscript: 
 
