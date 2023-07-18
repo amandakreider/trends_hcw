@@ -1,8 +1,10 @@
 *.sh
 *.log
 data/built/*.dta
+data/temp/kff/*.dta
 out/*.xlsx
 out/*.png
 out/*.pdf
 *.dat.gz
+*.dat
 
