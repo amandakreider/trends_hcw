@@ -20,10 +20,10 @@ Kreider, Amanda R., and Rachel M. Werner. 2023.
 
 4. Run run_all.do in Stata to reproduce all derived datasets and graphs for the manuscript. 
 
-  - 01_usa_00015.do cleans the raw IPUMS American Community Survey (ACS) data.
-  - 02_build_kff_data.do uses data from Kaiser Family Foundation (KFF) and data on state Medicaid HCBS programs' start and end dates collected by the study team to construct a dataset with annual counts of HCBS participants.
-  - 03_build_analysis_data.do constructs the analysis dataset.
-  - 04_analysis.do creates the figures for the manuscript.
+    - 01_usa_00015.do cleans the raw IPUMS American Community Survey (ACS) data.
+    - 02_build_kff_data.do uses data from Kaiser Family Foundation (KFF) and data on state Medicaid HCBS programs' start and end dates collected by the study team to construct a dataset with annual counts of HCBS participants.
+    - 03_build_analysis_data.do constructs the analysis dataset.
+    - 04_analysis.do creates the figures for the manuscript.
 
 ## Running the code: 
 
